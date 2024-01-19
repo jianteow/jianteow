@@ -1,3 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Git%20hub&fontSize=90)
+
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=jianteow)](https://github.com/jianteow)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jianteow&layout=compact)](https://github.com/jianteow/github-readme-stats)
+
+
+
+
 # Hi there 👋
 ## Hi there 👋
 ### Hi there 👋
