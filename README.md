@@ -9,7 +9,7 @@
 
 
 
-[Tistory](jianteow.tistory.com)
+[Tistory](https://jianteow.tistory.com/)
 
 
 <!--
