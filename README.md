@@ -9,7 +9,7 @@
 
 
 
-[Tstory](jianteow.tistory.com)
+[Tistory](jianteow.tistory.com)
 
 
 <!--
